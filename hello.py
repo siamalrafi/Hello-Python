@@ -1,5 +1,2 @@
-x = "22222"
-y = ""
-
-print(bool(x))
-print(bool(y))
+thislist = ["apple", "banana", "cherry"]
+[print(x) for x in thislist]
