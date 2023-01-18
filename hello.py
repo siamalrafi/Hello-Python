@@ -1,2 +1,5 @@
-txt = "sdfhello, and welcome to my world."
-print(txt.capitalize())
+x = "22222"
+y = ""
+
+print(bool(x))
+print(bool(y))
