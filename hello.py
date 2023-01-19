@@ -1,4 +1,4 @@
-# note the double round-brackets
-thistuple = tuple(("apple", "banana", "cherry"))
-print(thistuple)
-print(type(thistuple))
+thistuple = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+
+if 'apple' in thistuple:
+    print("Apple")
