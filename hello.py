@@ -1,5 +1,5 @@
-thistuple = ("apple", "banana", "cherry")
-i = 0
-while i in range(len(thistuple)):
-    print(thistuple[i])
-    i += 1
+set1 = {"a", "b" , "c"}
+set2 = {1, 2, 3}
+
+set3 = set1.union(set2)
+print(set3)
