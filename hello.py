@@ -1,1 +1,1 @@
- Python Functions
+print("today is 20/01/2023")
