@@ -1,5 +1,10 @@
-set1 = {"a", "b" , "c"}
-set2 = {1, 2, 3}
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
 
-set3 = set1.union(set2)
-print(set3)
+x = thisdict.keys()
+print(x)
+x = thisdict.values()
+print(x)
