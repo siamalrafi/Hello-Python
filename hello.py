@@ -1,5 +1,5 @@
 thistuple = ("apple", "banana", "cherry")
-y = list(thistuple) 
-y.remove("apple")
-thistuple = tuple(y)
-print(thistuple)
+i = 0
+while i in range(len(thistuple)):
+    print(thistuple[i])
+    i += 1
