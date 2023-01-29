@@ -1,1 +1,1 @@
-print(' this is the default value fo r')
+print(' this is the default value')
