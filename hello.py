@@ -1,1 +1,1 @@
-print('this is not a valid version of the databasename')
+print('this is not a valid version of the')
