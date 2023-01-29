@@ -1,4 +1,2 @@
-number1 = 20
-number2 = 30
 
-
+new = 400
