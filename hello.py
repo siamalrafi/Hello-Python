@@ -1,1 +1,1 @@
-print('This is the default configuration for the')
+print('This is the default configuration')
