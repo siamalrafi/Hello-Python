@@ -1,1 +1,1 @@
-print(' this is the default value for th e')
+print(' this is the default value for')
