@@ -1,1 +1,1 @@
-p =1000
+print(' this is the default value for the default value for the default value ')
