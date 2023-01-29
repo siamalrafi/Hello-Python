@@ -1,1 +1,4 @@
-print("today is 20/01/2023")
+number1 = 20
+number2 = 30
+
+
