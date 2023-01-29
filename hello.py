@@ -1,1 +1,1 @@
-print('this is not a valid version of the')
+print('this is not a valid version')
