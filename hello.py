@@ -1,1 +1,1 @@
-print(' this is')
+print(' this')
