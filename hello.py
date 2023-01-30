@@ -1,1 +1,1 @@
-name-100
+print('name')
