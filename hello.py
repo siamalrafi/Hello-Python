@@ -1,10 +1,4 @@
-print('name')
+class MyClass:
+  x = 5
 
-
-
-
-
-
-
-
- 
+print(MyClass)
