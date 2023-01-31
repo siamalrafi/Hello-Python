@@ -115,8 +115,7 @@
 
   
 git add .
-git commit -m"This is the python story"
-git push
+git commit -m"This is the python stor
 
 
 
