@@ -92,7 +92,15 @@ for x in list1:
     print(x) """
 
 
+""" list1 = [10, 20, 30, 40, 50]
+
+size = len(list1) - 1
+for x in range(size, -1, -1):
+    print(list1[x]) """
 
 
+# Exercise 9: Display numbers from -10 to -1 using for loop
 
 
+for x in range(-10, 0, 1):
+    print(x)
