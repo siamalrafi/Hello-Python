@@ -164,5 +164,3 @@ print("Revere Number ", reverse_number)
 for i in my_list[1::2]:
     print(i, end=" ") """
 
-
-
