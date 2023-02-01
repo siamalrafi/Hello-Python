@@ -173,5 +173,3 @@ for i in my_list[1::2]:
 
 
 
-git add .
-git commit -m"This is the py
