@@ -37,6 +37,7 @@ x = sum(range(1, 11))
 print('Total sum:', x)
  """
 
+
 # Exercise 4: Write a program to print multiplication table of a given number
 """-----------
  for x in range(1, 11):
@@ -84,13 +85,13 @@ for x in range(1, 11):
         print(j, end=' ')
     print(' ') """
 
+
 # Exercise 8: Print list in reverse order using a loop
 
 """ list1 = [10, 20, 30, 40, 50]
 list1.reverse()
 for x in list1:
     print(x) """
-
 
 """ list1 = [10, 20, 30, 40, 50]
 
@@ -101,6 +102,35 @@ for x in range(size, -1, -1):
 
 # Exercise 9: Display numbers from -10 to -1 using for loop
 
-
+""" 
 for x in range(-10, 0, 1):
-    print(x)
+    print(x) """
+
+
+# Exercise 10: Use else block to display a message “Done” after successful execution of for loop
+
+""" for i in range(5):
+    print(i)
+print('Done') """
+
+
+# Exercise 11: Write a program to display all prime numbers within a range
+
+""" for num in range(1, 10):
+    if num > 1:
+        for i in range(2, num):
+            if num % i == 0:
+                break
+        else:
+            print(num)
+ """
+
+# Exercise 12: Display Fibonacci series up to 10 terms
+num1, num2 = 0, 1
+
+for x in range(10):
+    print(num1, end=' ')
+    res = num1 + num2
+
+    num1 = num2
+    num2 = res
