@@ -163,3 +163,13 @@ print("Revere Number ", reverse_number)
 # stat from index 1 with step 2( means 1, 3, 5, an so on)
 for i in my_list[1::2]:
     print(i, end=" ") """
+
+
+
+
+
+
+
+
+
+
