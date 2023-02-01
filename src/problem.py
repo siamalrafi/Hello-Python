@@ -166,4 +166,3 @@ for i in my_list[1::2]:
 
 
 
-
