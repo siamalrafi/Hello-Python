@@ -11,7 +11,7 @@ while i < 11:
  for x in range(1, 6, 1):
     for y in range(1, x+1):
         print(y, end=' ')
-    print('') 
+    print('')
  """
 
 
@@ -32,7 +32,7 @@ print('Total sum:', sum)
  """
 
 """------------
- 
+
 x = sum(range(1, 11))
 print('Total sum:', x)
  """
@@ -41,7 +41,7 @@ print('Total sum:', x)
 # Exercise 4: Write a program to print multiplication table of a given number
 """-----------
  for x in range(1, 11):
-    print(x*2) 
+    print(x*2)
  """
 
 
@@ -102,7 +102,7 @@ for x in range(size, -1, -1):
 
 # Exercise 9: Display numbers from -10 to -1 using for loop
 
-""" 
+"""
 for x in range(-10, 0, 1):
     print(x) """
 
@@ -126,7 +126,7 @@ print('Done') """
  """
 
 # Exercise 12: Display Fibonacci series up to 10 terms
-num1, num2 = 0, 1
+""" num1, num2 = 0, 1
 
 for x in range(10):
     print(num1, end=' ')
@@ -134,3 +134,9 @@ for x in range(10):
 
     num1 = num2
     num2 = res
+ """
+
+factorial = 1
+for x in range(1, 5+1):
+    factorial = factorial * x
+print(factorial)
