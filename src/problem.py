@@ -79,9 +79,20 @@ for x in range(1, 11):
 
  """
 
-
-
-for x in range(0, 10+1):
+""" for x in range(0, 10+1):
     for j in range(10-x, 0, -1):
         print(j, end=' ')
-    print(' ')
+    print(' ') """
+
+# Exercise 8: Print list in reverse order using a loop
+
+""" list1 = [10, 20, 30, 40, 50]
+list1.reverse()
+for x in list1:
+    print(x) """
+
+
+
+
+
+
