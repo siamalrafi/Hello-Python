@@ -1,4 +1,5 @@
-import datetime
+def myfun(a=1, b=4):
+    return a+b
 
-x = datetime.datetime.now()
-print(x
+
+print(myfun(a=55))
