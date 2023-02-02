@@ -1,5 +1,4 @@
-# for x in range(2, 11, 2):
-#     print(x)
+import datetime
 
-
- 
+x = datetime.datetime.now()
+print(x)
