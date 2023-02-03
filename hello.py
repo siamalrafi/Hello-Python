@@ -5,4 +5,4 @@ print("Addition of",n,"and",m,"is", ans1)
 ans2 = n-m
 print("Subtraction of",n,"and",m,"is", ans2)
 ans3 = n*m
-print("Multiplication of",n,"a
+print("Multiplication of
