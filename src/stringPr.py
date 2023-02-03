@@ -23,18 +23,16 @@ get_middle_three_chars("Mr.Modern")
 
 # Exercise 2: Append new string in the middle of a given string
 
-
-str1 = "Ault"
+""" str1 = "Ault"
 str2 = "Kelly"
 
 
 def Append_new_string(str1, str2):
     mid = int(len(str1) / 2)
-
     newString = str1[:mid:]
     newString = newString + str2
     newString = newString + str1[mid:]
     print('New string: ', newString.capitalize())
 
 
-Append_new_string(str1, str2)
+Append_new_string(str1, str2) """
