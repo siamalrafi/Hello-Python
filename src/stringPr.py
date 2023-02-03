@@ -27,7 +27,6 @@ get_middle_three_chars("Mr.Modern")
 s1 = "Ault"
 s2 = "Kelly"
 
-
 def Append_new_string(str1, str2):
     mid = int(len(str1) / 2)
 
