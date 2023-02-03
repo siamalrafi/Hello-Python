@@ -123,7 +123,7 @@ newString_FSL(str1, str2) """
 
 # Exercise 7: String characters balance Test
 
-def string_balance_test(str1, str2):
+""" def string_balance_test(str1, str2):
     flag = True
     for char in str1:
         if char in str2:
@@ -141,4 +141,16 @@ print("str1 and str2 are balanced:", flag)
 str1 = "Ynf"
 str2 = "PYnative"
 flag = string_balance_test(str1, str2)
-print("str1 and str2 are balanced:", flag)
+print("str1 and str2 are balanced:", flag) """
+
+
+
+# Exercise 8: Find all occurrences of a substring in a given string by ignoring the case
+
+
+
+
+
+
+
+
