@@ -11,4 +11,4 @@ print("Division of",n,"and",m,"is", ans4)
 ans5 = n%m
 print("Modulus of",n,"and",m,"is", ans5)
 ans6 = n//m
-print("Floor Divisio
+print("Floor Divisi
