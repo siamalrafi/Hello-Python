@@ -38,13 +38,27 @@ def Append_new_string(str1, str2):
 Append_new_string(str1, str2) """
 
 
+# Exercise 3: Create a new string made of the first, middle, and last characters of each input string
+
+string1 = "America"
+string2 = "Japan"
 
 
+def first_mid_last(string1, string2):
+    s1 = string1[0]
+    s2 = string2[0]
+    newF = s1+s2
+
+    x = int(len(string1)/2)
+    str1_f = string1[x:x+1]
+
+    y = int(len(string2)/2)
+    str2_f = string2[y:y+1]
+    newM = str1_f + str2_f
+
+    newL = string1[-1]+string2[-1]
+
+    print("New Word: ", newF+newM+newL)
 
 
-
-
-
-
-
-
+first_mid_last(string1, string2)
