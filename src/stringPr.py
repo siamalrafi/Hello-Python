@@ -65,12 +65,10 @@ first_mid_last(string1, string2) """
 # Exercise 4: Arrange string characters such that lowercase letters should come first
 
 
-str1 = "PyNaTive"
-
 lowerCa = []
 upperCa = []
 
-for x in str1:
+for x in "PyNaTive":
     if x.islower() == True:
         lowerCa.append(x)
     else:
