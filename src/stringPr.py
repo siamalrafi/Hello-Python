@@ -64,6 +64,7 @@ first_mid_last(string1, string2) """
 
 
 
+# Exercise 4: Arrange string characters such that lowercase letters should come first
 
 
 
