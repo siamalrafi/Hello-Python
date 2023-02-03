@@ -18,3 +18,12 @@ def get_middle_three_chars(str1):
     newString = str1[midleC-1:midleC+2]
     print(newString.capitalize())
 get_middle_three_chars("Mr.Modern")
+
+
+
+
+
+
+
+
+
