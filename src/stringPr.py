@@ -76,13 +76,23 @@ newString = ''.join(lowerCa+upperCa)
 
 print(newString) """
 
+# Exercise 5: Count all letters, digits, and special symbols from a given string
 
+""" str1 = "P@#yn26at^&i5ve"
 
+Chars = 0
+Digits = 0
+Symbol = 0
 
+for x in str1:
+    if x.isdigit():
+        Digits += 1
+    elif x.isalpha():
+        Chars += 1
+    else:
+        Symbol += 1
 
-
-
-
-
-
-
+print("Chars =", Chars)
+print("Digits =", Digits)
+print("Symbol =", Symbol)
+ """
