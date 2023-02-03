@@ -109,7 +109,6 @@ s333 = [" "]
 
 
 def newString(str1, str2):
-
     string3 = ' '
     st1F = str1[0]
     st1S = str1[1]
@@ -120,8 +119,6 @@ def newString(str1, str2):
     s2L = str2[-1:]
     string3 = st1F + s2L + st1S + st2S + s1L+st2F
     print(string3)
-
-    pass
 
 
 newString(str1, str2)
