@@ -119,6 +119,6 @@ def newString(str1, str2):
     s2L = str2[-1:]
     string3 = st1F + s2L + st1S + st2S + s1L+st2F
     print(string3)
-
-
+    
+    
 newString(str1, str2)
