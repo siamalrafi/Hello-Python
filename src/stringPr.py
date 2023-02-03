@@ -12,8 +12,9 @@ newWord = firstC+middleC+lastC
 print('New word: ' + newWord) """
 
 
+# Exercise 1B: Create a string made of the middle three characters
 
 
-
+str1 = "JhonDipPeta"
 
 
