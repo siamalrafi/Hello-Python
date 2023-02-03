@@ -101,15 +101,12 @@ print("Symbol =", Symbol)
 
 # Exercise 6: Create a mixed String using the following rules
 
+""" 
 str1 = "Abc"
 str2 = "Xyz"
 
-
-s333 = [" "]
-
-
-def newString(str1, str2):
-    string3 = ' '
+def newString_FSL(str1, str2):
+    newString = ' '
     st1F = str1[0]
     st1S = str1[1]
     st2F = str2[0]
@@ -117,8 +114,18 @@ def newString(str1, str2):
 
     s1L = str1[-1:]
     s2L = str2[-1:]
-    string3 = st1F + s2L + st1S + st2S + s1L+st2F
-    print(string3)
+    newString = st1F + s2L + st1S + st2S + s1L+st2F
+    print(newString)
     
-    
-newString(str1, str2)
+
+newString_FSL(str1, str2) """
+
+
+
+
+
+
+
+
+
+
