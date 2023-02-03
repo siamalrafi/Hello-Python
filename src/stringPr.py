@@ -121,11 +121,24 @@ def newString_FSL(str1, str2):
 newString_FSL(str1, str2) """
 
 
+# Exercise 7: String characters balance Test
+
+def string_balance_test(str1, str2):
+    flag = True
+    for char in str1:
+        if char in str2:
+            continue
+        else:
+            flag = False
+    return flag
 
 
+str1 = "Yn"
+str2 = "PYnative"
+flag = string_balance_test(str1, str2)
+print("str1 and str2 are balanced:", flag)
 
-
-
-
-
-
+str1 = "Ynf"
+str2 = "PYnative"
+flag = string_balance_test(str1, str2)
+print("str1 and str2 are balanced:", flag)
