@@ -17,4 +17,4 @@ jj
 
 
 
-git add .
+git
