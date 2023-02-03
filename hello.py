@@ -4,4 +4,4 @@ ans1 = n+m
 print("Addition of",n,"and",m,"is", ans1)
 ans2 = n-m
 print("Subtraction of",n,"and",m,"is", ans2)
-ans3 = n*
+an
