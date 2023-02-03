@@ -32,7 +32,9 @@ def Append_new_string(str1, str2):
     mid = int(len(str1) / 2)
 
     newString = str1[:mid:]
-    print(newString.capitalize())
+    newString = newString + str2
+    newString = newString + str1[mid:]
+    print('New string: ', newString.capitalize())
 
 
 Append_new_string(s1, s2)
