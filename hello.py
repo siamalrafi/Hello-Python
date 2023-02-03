@@ -7,4 +7,4 @@ print("Subtraction of",n,"and",m,"is", ans2)
 ans3 = n*m
 print("Multiplication of",n,"and",m,"is", ans3)
 ans4 = n/m
-print("Division of",n,"an
+print("Division of"
