@@ -43,7 +43,7 @@ Append_new_string(str1, str2) """
 """ string1 = "America"
 string2 = "Japan"
 def first_mid_last(string1, string2):
-    s1 = string1[0]
+    str1 = string1[0]
     s2 = string2[0]
     newF = s1+s2
 
@@ -76,6 +76,7 @@ newString = ''.join(lowerCa+upperCa)
 
 print(newString) """
 
+
 # Exercise 5: Count all letters, digits, and special symbols from a given string
 
 """ str1 = "P@#yn26at^&i5ve"
@@ -98,16 +99,29 @@ print("Symbol =", Symbol)
  """
 
 
+# Exercise 6: Create a mixed String using the following rules
+
+str1 = "Abc"
+str2 = "Xyz"
 
 
+s333 = [" "]
 
 
+def newString(str1, str2):
+
+    string3 = ' '
+    st1F = str1[0]
+    st1S = str1[1]
+    st2F = str2[0]
+    st2S = str2[1]
+
+    s1L = str1[-1:]
+    s2L = str2[-1:]
+    string3 = st1F + s2L + st1S + st2S + s1L+st2F
+    print(string3)
+
+    pass
 
 
-
-
-
-
-
-
-
+newString(str1, str2)
