@@ -5,4 +5,4 @@ timestamp = time.strftime('%H')
 print(timestamp)
 timestamp = time.strftime('%M')
 pringit add .
-git commit -m"This is the python stor
+git commit -m"This is the 
