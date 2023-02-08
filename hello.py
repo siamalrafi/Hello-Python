@@ -64,4 +64,3 @@ False
 'FREEcODEcAMP'
 
 >>> freecodecamp.title()
-'Freecodecamp
