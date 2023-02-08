@@ -63,4 +63,3 @@ False
 >>> freecodecamp.swapcase()
 'FREEcODEcAMP'
 
->>> freecodecamp
