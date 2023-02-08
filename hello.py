@@ -6,4 +6,3 @@ print(timestamp)
 timestamp = time.strftime('%M')
 pringit add .
 git commit -m"This is the python story"
-git 
