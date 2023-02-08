@@ -66,4 +66,3 @@ False
 >>> freecodecamp.title()
 'Freecodecamp'
 
->>> freecodecamp
