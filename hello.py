@@ -61,4 +61,6 @@ False
 ['free', 'ode', 'amp']
 
 >>> freecodecamp.swapcase()
-'FREEcODEcAMP'
+'FREEcODEcAMP'git add .
+git commit -m"This is the python story"
+git 
