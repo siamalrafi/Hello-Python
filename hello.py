@@ -4,4 +4,3 @@ print(timestamp)
 timestamp = time.strftime('%H')
 print(timestamp)
 git add .
-git 
