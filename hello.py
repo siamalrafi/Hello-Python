@@ -66,4 +66,4 @@ False
 >>> freecodecamp.title()
 'Freecodecamp'
 
->>> freecodecamp.upper
+>>> freecodecamp
