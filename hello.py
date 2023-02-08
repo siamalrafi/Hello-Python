@@ -4,4 +4,4 @@ print(timestamp)
 timestamp = time.strftime('%H')
 print(timestamp)
 git add .
-git commit -m"This is 
+git commit -m"
