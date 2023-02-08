@@ -4,4 +4,6 @@ print(timestamp)
 timestamp = time.strftime('%H')
 print(timestamp)
 timestamp = time.strftime('%M')
-prin
+pringit add .
+git commit -m"This is the python story"
+git 
