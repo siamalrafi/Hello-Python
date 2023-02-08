@@ -5,4 +5,3 @@ timestamp = time.strftime('%H')
 print(timestamp)
 timestamp = time.strftime('%M')
 print(timestamp)
-timestamp
