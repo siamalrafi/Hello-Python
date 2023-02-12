@@ -3,4 +3,4 @@ x = list(fruits)
 x.sort()
 x = tuple(x)
 print(x)
-print(type(x))
+print(
