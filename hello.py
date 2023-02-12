@@ -6,5 +6,4 @@ print(x)
 print(type(x))
 
 # git add .
-# git commit -m"This is the python story"
-# git 
+# git commit -m"This is the python 
