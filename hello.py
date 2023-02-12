@@ -5,5 +5,4 @@ x = tuple(x)
 print(x)
 print(type(x))
 
-# git add .
-# git 
+# git add 
