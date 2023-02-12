@@ -1,5 +1,4 @@
 print('this is the python code. Python is the king')
 print('this is the python code. Python is the king')
 print('this is the python code. Python is the king')
-print('this is the python code. Python is the king')
-print('
+print('this is the python code. Python is the king
