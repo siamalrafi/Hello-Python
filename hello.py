@@ -1,1 +1,1 @@
-fruits = (1, 4332, 
+fruits 
