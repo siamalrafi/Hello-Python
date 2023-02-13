@@ -26,4 +26,4 @@ git commit -m"This is the python story"
 git pushgit add .
 git commit -m"This is the python story"
 git pushgit add .
-git commit -m"This is the 
+git commit -m"
