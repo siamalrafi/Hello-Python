@@ -1,8 +1,5 @@
-x = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-x.append(111)
+def New(self, onential):
+    print(self, 'New ', onential)
 
 
-print(x)
-x.clear()
-
-
+print(New(12, 14))
