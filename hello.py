@@ -1,2 +1,1 @@
-x = 'This is a test.'
-print(x)
+text = 'this is a test.'
