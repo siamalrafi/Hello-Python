@@ -22,6 +22,7 @@ Contributions are always welcome!
 
 #### Python has six standard Data Types:
 
+
 1.Numbers
 2.String
 3.List
