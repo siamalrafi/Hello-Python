@@ -33,3 +33,9 @@ Contributions are always welcome!
 - Numerical – These data types store numerical values like integers, floating-point numbers and complex numbers.
 - Boolean – A boolean is used when we wish to restrict data to True/False or yes/no options.
 - Sequence types – These help us store ordered collection of similar or different data types. List, string, and tuples are the types of sequence data types.
+
+
+
+
+
+Thank you 💓
