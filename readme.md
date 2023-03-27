@@ -38,4 +38,4 @@ Contributions are always welcome!
 
 
 
-Thank you 💓
+Thank you Python 💓
