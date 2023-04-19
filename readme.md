@@ -10,6 +10,7 @@ Contributions are always welcome!
 
 ![App Screenshot](https://i.ibb.co/KsLRJc2/download.jpg)
 
+
 ### 1.Why we should learn python?
 
 #### Python is an excellent pick for beginners or those who are new to programming. It's very easy to learn for beginning. Python was designed for readability, and has some similarities to the English language with influence from mathematics. Some reason to learn Python -
