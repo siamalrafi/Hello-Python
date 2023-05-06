@@ -37,6 +37,4 @@ Contributions are always welcome!
 
 
 
-
-
 Thank you Python 💓
